@@ -5,4 +5,4 @@ def predict_label(value):
 
 
 if __name__ == "__main__":
-    print("Prediction:", predict_label(0.8))
+    print("Updated prediction:", predict_label(0.8))
